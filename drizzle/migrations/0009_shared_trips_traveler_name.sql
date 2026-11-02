@@ -1,0 +1,1 @@
+ALTER TABLE public.shared_trips ADD COLUMN IF NOT EXISTS traveler_name text;

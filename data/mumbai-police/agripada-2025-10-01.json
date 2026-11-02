@@ -1,0 +1,17 @@
+{
+  "dataset": {
+    "source_url": "https://mumbaipolice.gov.in/files/PressRelease/3233.pdf",
+    "title": "Agripada Police Station press note, 1 Oct 2025",
+    "period_start": "2025-09-29", "period_end": "2025-09-29",
+    "content_sha256": "715405a2ff1b4443fcc718973afa7269afa60e71105d6fbdfd40ce41562d1d80",
+    "completeness": "partial", "coverage_geojson": null,
+    "methodology": "Manually reviewed official press note. Single selected incident; not a complete crime record. Landmark is not geocoded, so it is excluded from journey matching.",
+    "reviewed_at": "2026-10-16T07:18:00.000Z"
+  },
+  "records": [{
+    "source_record_id": "Agripada-484-2025", "category": "violence", "occurred_on": "2025-09-29",
+    "location_label": "Opposite Santoshi Mata Mandir, Dr E Moses Road, Saat Rasta, Mumbai",
+    "location_precision": "area", "latitude": null, "longitude": null,
+    "incident_count": 1, "source_locator": "FIR 484/2025; press note paragraph 1"
+  }]
+}

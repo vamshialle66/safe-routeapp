@@ -1,0 +1,83 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1792083309406,
+      "tag": "0000_migration",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792134359330,
+      "tag": "0001_community_alert_review",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1792135016782,
+      "tag": "0002_mumbai_police_evidence",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1792137106202,
+      "tag": "0003_community_alert_moderation",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1792335224477,
+      "tag": "0004_admin_reviewer_management",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1792335991767,
+      "tag": "0005_route_ratings",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1792336048009,
+      "tag": "0006_area_report_counts",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1792336638244,
+      "tag": "0007_create_shared_trips",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1792346014898,
+      "tag": "0008_community_alerts_coordinates_and_route_matched_tips",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1792347264287,
+      "tag": "0009_shared_trips_traveler_name",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1792347643689,
+      "tag": "0010_shared_trip_outcome",
+      "breakpoints": true
+    }
+  ]
+}
